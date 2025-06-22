@@ -1,0 +1,33 @@
+body{
+    background-color: #d4e1df;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+}
+
+header{
+    background-color: #f8e0e0;
+    width: 100%;
+
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #f8e0e0;
+    background-color: #f8e0e0;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+h1{
+    color: #90b1c1;
+    text-align: center;
+}
+
+a{
+    color: #90b1c1;
+    text-decoration: none;
+    padding: 10px;
+}
